@@ -1,0 +1,36 @@
+h1{
+    color: #c09739;
+    font-weight: bold;
+    text-shadow: 2px 2px 30px rgb(168, 137, 32);
+}
+
+body{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+#cookieButton{
+    background-color: transparent;
+    border-radius: 100%;
+    border-color: transparent;
+}
+
+#upgradeContainer{
+    padding: 20px 20px;
+}
+
+.upgradeLabel{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    color: white;
+}
+
+.upgradeBtn{
+    padding: 10px 10px;
+    height: 50px;
+    width: 500px;
+    border-radius: 30px;
+    border-color: transparent;
+    background-color: rgb(150, 127, 97);
+}
